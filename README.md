@@ -10,3 +10,7 @@ Welcome to my collection of simple and fun Python projects! This repository cont
 ### 2. ✊✋✌️ Stone Paper Scissors Game
 - **File:** `Rock_Paper_Scissor.py`
 - Classic Rock Paper Scissors game to play against the computer with random moves.
+
+### 3. ❌⭕ Tic Tac Toe Game
+- **File:** `Tic_Tac_Toe.py`
+- A 2-player Tic Tac Toe game using Tkinter GUI with win detection and turn display.
