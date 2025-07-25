@@ -14,3 +14,25 @@ Welcome to my collection of simple and fun Python projects! This repository cont
 ### 3. ❌⭕ Tic Tac Toe Game
 - **File:** `Tic_Tac_Toe.py`
 - A 2-player Tic Tac Toe game using Tkinter GUI with win detection and turn display.
+
+### 4. ⏳ **Countdown Timer**  
+  - **File:** `Countdown_Timer.py`  
+  - A simple countdown timer that takes input in seconds and displays the time left in MM:SS format.
+
+### 5. 📝 **To-Do List App**  
+  - **File:** `To-do_App.py`  
+  -  A basic to-do app where you can add, view, and remove tasks — helps manage daily tasks using terminal or simple GUI.
+
+### 6. 🔢 **Number Guessing Game**  
+  -  **File:** `Number_Guessing_Game.py`  
+   - A fun terminal game where the user guesses the number randomly chosen by the computer with hints like 'too high' or 'too low'.
+
+---
+
+## 💡 How to Run
+
+Make sure you have Python installed.  
+Use the terminal or command prompt:
+
+```bash
+python filename.py
