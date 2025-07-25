@@ -27,6 +27,18 @@ Welcome to my collection of simple and fun Python projects! This repository cont
   -  **File:** `Number_Guessing_Game.py`  
    - A fun terminal game where the user guesses the number randomly chosen by the computer with hints like 'too high' or 'too low'.
 
+### 7. ⏰ Digital Clock
+- **File:** ` Digital_Clock.py`
+- A live digital clock built with Tkinter that displays the current time and date in real-time.
+
+### 8. 🔐 Password Generator
+- **File:** `Password_Generator.py`
+- Generates strong random passwords based on user input for length and character types (letters, digits, symbols).
+
+### 9. ⏳ Countdown Timer
+- **File:** `Countdown_Timer.py`
+- A simple terminal-based countdown timer that takes input in seconds and displays the remaining time in MM:SS format. It updates the timer every second and displays "Stop" when time is up.
+
 ---
 
 ## 💡 How to Run
